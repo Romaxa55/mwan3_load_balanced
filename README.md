@@ -1,1 +1,3 @@
-# mwan3_load_balanced
+# Openwrt mwan3 балансировка связи.
+
+
